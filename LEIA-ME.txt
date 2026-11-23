@@ -1,0 +1,35 @@
+FORGE 3D WF — SITE V2 RESPONSIVO
+=================================
+Abrir index.html no navegador para visualizar localmente.
+Não requer instalação de framework ou dependências.
+
+PÁGINAS:
+- index.html — Home e vídeo de abertura
+- personagens.html — personagens, miniaturas e RPG
+- pet-memorial.html — homenagem e memorial pet
+- eventos.html — chaveiros de aniversário e eventos
+- solucoes.html — tags/cartão de visita virtual e peças sob medida
+- contato.html — contato e orçamento via WhatsApp
+
+IDENTIDADE:
+- Logo 2 fornecido pelo usuário
+- Preto, grafite, prata e laranja
+- Layout responsivo para desktop e celular
+
+VÍDEOS:
+O vídeo da home começa automaticamente, sem áudio, uma vez quando entra na área visível.
+Ao passar o mouse por cima, reinicia. Em celular/tablet, um toque reinicia, pois não há hover.
+O comportamento está preparado para todos os vídeos inseridos futuramente com a mesma marcação.
+Não há loop automático ao terminar.
+
+OBSERVAÇÕES:
+- A imagem de Pet Memorial é uma referência visual ilustrativa, não uma fotografia de peça final impressa.
+- As imagens e textos devem ser revisados pelo proprietário antes da publicação.
+- WhatsApp configurado: (12) 99112-9341.
+- Fonte tipográfica externa usa Google Fonts; o site continua funcional com fontes locais se não houver internet.
+\n\nATUALIZAÇÃO DE CONTEÚDO\n- Eventos: categorias de chaveiros para aniversários, empresas e bichinhos, com as fotografias fornecidas pelo cliente.\n- Pet Memorial: galeria com duas fotografias de trabalhos apresentados como exemplos de clientes atendidos.\n- Início: imagens de destaque atualizadas para aniversários e Memorial Pet.\n- Vídeo de abertura, navegação, logo existente e comportamento responsivo preservados.\n
+ATUALIZAÇÃO — PET MEMORIAL E PEÇAS & SOLUÇÕES
+- Pet Memorial: imagem de destaque substituída por foto 1 dos pets; galeria atualizada com a nova imagem Designer.
+- Peças & Soluções: página reformulada para apresentar modelagem 3D em Blender e FreeCAD e fabricação de peças funcionais.
+- PETG: apresentado como opção para peças que exigem boa resistência mecânica e ao impacto, com avaliação conforme a aplicação.
+- A página separada “A Forja” foi removida da navegação e do pacote; os trabalhos ficam organizados por serviço.
